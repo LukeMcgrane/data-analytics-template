@@ -15,4 +15,8 @@
 
 ---
 
+11/14/2024 3 lines of code added
+11/12/2024 added a data source
+11/09/2024 started project
+
 ## What did I learn?
